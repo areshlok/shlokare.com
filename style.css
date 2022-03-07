@@ -1,0 +1,81 @@
+body{
+    background-color: #85F4FF;
+    
+}
+h1{
+    text-align: center;
+}
+.c{
+    border-radius: 100px ;
+    border-bottom: ridge;
+
+    animation-name: shlok1 ;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+    
+    
+
+}
+@keyframes shlok1 {
+    0%{ margin-left: 0px;
+        
+
+    }
+    50%
+    {
+      margin-left: 1612px;
+      
+
+    }
+    100%{
+        margin-left: 0px;
+    }
+
+
+    
+}
+div{
+    width: 2000px;
+    height:3000px;
+    color: red
+}
+p{
+    font-size: x-large;
+}
+ul{
+    width: 500px;
+    font-size: large;
+}
+.hel{
+    width: 122px;
+    -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+.debate{
+    width: 100px;width: 122px;
+    -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+li{
+    image:src="ai.jp" ;
+}
+.scout{
+    width: 122px;
+    -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+
+
